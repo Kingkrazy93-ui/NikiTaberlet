@@ -26,11 +26,6 @@ Mi chiamo **Niki Taberlet**, sono un appassionato di informatica e sicurezza IT,
 
 ## 🚀 Progetti attuali
 - Sto lavorando su un'app per la gestione delle liste di cose da fare (To-Do List App).
-- Approfondimento e progetti in sicurezza informatica per ottenere certificazioni come Ethical Hacker.
-
-## 📫 Contatti
-- **Email**: [nikitaberlet1@gmail.com](mailto:nikitaberlet1@gmail.com)
-- **LinkedIn**: [linkedin.com/in/niki-taberlet-7560797a/](https://www.linkedin.com/in/niki-taberlet-7560797a/)
 
 ---
 
